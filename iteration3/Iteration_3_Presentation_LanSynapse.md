@@ -2,13 +2,13 @@
 marp: true
 theme: default
 paginate: true
-footer: "Iteration 2 – Incubation | LangSynapse"
+footer: "Iteration 3 – Incubation | LangSynapse"
 ---
 <!-- markdownlint-disable MD025 -->
 <!-- markdownlint-disable MD001 MD025 MD026 MD036 -->
 <!-- markdownlint-disable MD001 MD024 MD025 MD026 MD036 -->
 
-# **Iteration 2 – Incubation : Exploration créative**  
+# **Iteration 3 – Incubation : Exploration créative**  
 
 ### Projet : **LangSynapse**
 
@@ -26,10 +26,7 @@ footer: "Iteration 2 – Incubation | LangSynapse"
 
 # **Carte des idées (Mindmap)**
 
-> ⚠️ 在这里插入你生成的 mindmap 图片（PNG/SVG）  
-例如：
-
-![bg contain](mindmap.png)
+![minmap](./creation.png){ height: 400px }
 
 ---
 

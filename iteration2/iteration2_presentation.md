@@ -29,7 +29,7 @@ footer: "Itération 2 – Explorer les besoins | LangSynapse"
 
 - Étudiante internationale à Montréal  
 - Niveau intermédiaire en français  
-- Utilise Duolingo, ChatGPT, DeepL pour apprendre  
+- Utilise Duolingo, ChatGPT, DeepL pour apprendre
 
 ---
 
@@ -38,7 +38,7 @@ footer: "Itération 2 – Explorer les besoins | LangSynapse"
 **Éléments clés de l’entretien :**  
 
 - *« Je sais que ma phrase est fausse, mais je ne comprends pas pourquoi. »*  
-- Corrections trop automatiques, pas assez explicatives  
+- *« Je peux utiliser ChatGPT pour trouver la réponse, mais le contenu n’est pas toujours fiable. »*
 - Besoin de comprendre l’**intention sémantique**  
 - Difficulté à trouver des expressions naturelles  
 - Perte de motivation sans retour clair ni contextualisé
